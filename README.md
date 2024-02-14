@@ -13,7 +13,7 @@ It is in KiCad 7 format.
 See Docs/parts-list.txt for a list of parts. Make sure the regulator is
 installed the right way. The square pad is pin 1, and the pin numbers are
 printed on it. Also, you can use either the bridge rectifier, or individual
-diode, don't install both.
+diodes, don't install both.
 
 The gerbers for JLCPCB are in the zip file in the gerbers directory.
 
