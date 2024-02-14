@@ -1,0 +1,13 @@
+This project uses the following libraries:
+
+2024-01-28_22-59-26.kicad_sym:
+
+This symbol was obtained from Digikey.
+
+Molex_KK-396_A-41791-0006_1x06_P3.96mm_Vertical.kicad_mod:
+Molex_KK-396_A-41791-0009_1x09_P3.96mm_Vertical.kicad_mod:
+Molex_KK-396_A-41791-0015_1x15_P3.96mm_Vertical.kicad_mod:
+
+The Molex libraries are modified versions of the connectors included with
+kicad to make the solder pads larger.
+
