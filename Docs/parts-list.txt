@@ -31,4 +31,4 @@ ZR1,ZR3 - 1N5990 Zener diode
 ZR2,ZR4 - 1N4764 Zener diode
 F1 - Fuse clips, 3/8A SB fuse
 F2,F3 - Fuse clips, 1/8A SB fuse
-
+Two TO-220 heatsinks for Q1 and Q3

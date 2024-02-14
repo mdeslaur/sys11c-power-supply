@@ -25,7 +25,8 @@ Change history:
 1.0 - Initial version  
 
 To Do:  
-- Change silkscreen for regulator to better indicate orientation
+- Change silkscreen for regulator to better indicate orientation  
+- Make sure there's enough room for the Q1 and Q3 heatsinks
 
-Marc Deslauriers
+Marc Deslauriers  
 2024-01-31
