@@ -17,9 +17,9 @@ diodes, don't install both.
 
 The gerbers for JLCPCB are in the zip file in the gerbers directory.
 
-This has been lightly tested in a Williams Taxi with low-voltage LED
-displays. The high-voltage section has not been tested, so please let me
-know if it works.
+This has been tested in both a Williams Taxi and a Williams Diner with
+low-voltage LED displays. The high-voltage section has not been tested, so
+please let me know if it works.
 
 Change history:  
 1.0 - Initial version  
